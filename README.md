@@ -6,5 +6,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c0535e3k72rqn7nfqvfm1kv7v&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-![shoccho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@forrestburton)]
+![shoccho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@forrestburton)
 
