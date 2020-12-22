@@ -1,6 +1,6 @@
 ### Hey, I'm Forrest
 
-![Forrest's github stats](https://github-readme-stats.vercel.app/api?username=forrestburton&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Forrest's github stats](https://github-readme-stats.vercel.app/api?username=forrestburton&count_private=true&theme=hpstr&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact)
 
