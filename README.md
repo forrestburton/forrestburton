@@ -4,7 +4,7 @@
 
 ![Languages I've used](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact)
 
-**What I'm listening to:**
+**What I'm listening to:** <br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c0535e3k72rqn7nfqvfm1kv7v&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- ![Forrests's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@forrestburton) -->
