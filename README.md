@@ -1,6 +1,6 @@
 ### Hey, I'm Forrest <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm a CS student at UCLA :man_student: is who is passionate about programming. Besides coding, I enjoy fitness and gaming.
+I'm a CS student at UCLA :man_student: who is passionate about programming. Besides coding, I enjoy fitness and gaming.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&count_private=true&theme=dark&hide=contribs,prs)
 
@@ -21,3 +21,5 @@ I'm a CS student at UCLA :man_student: is who is passionate about programming. B
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code>
+
+<img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
