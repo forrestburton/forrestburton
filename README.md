@@ -11,9 +11,7 @@ I'm a CS student at UCLA :man_student: who is passionate about programming. Besi
 <!--**What I'm listening to:** <br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c0535e3k72rqn7nfqvfm1kv7v&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 
-![Forrests's wakatime stats](https://wakatime.com/share/@forrestburton/82f4da04-7939-45c4-ae9c-164ae4f38f9f.svg)
-
-<figure><embed src="https://wakatime.com/share/@forrestburton/82f4da04-7939-45c4-ae9c-164ae4f38f9f.svg"></embed></figure>
+![Forrests's wakatime stats](https://wakatime.com/share/@forrestburton/44f5e53d-e3ec-4ce9-8fc6-6b56b28c19ff.svg)
 
 
 **Languages and Tools:**
