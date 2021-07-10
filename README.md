@@ -3,6 +3,8 @@
 I'm a CS student at UCLA :man_student: who is passionate about programming. Besides coding, I enjoy fitness and gaming.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&count_private=true&theme=dark&hide=contribs,prs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact) -->
 
