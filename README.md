@@ -1,9 +1,9 @@
 ### Hey, I'm Forrest <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm a CS student at UCLA :man_student: who is passionate about programming. Besides coding, I enjoy fitness and gaming.
+I'm currently working as a SWE at Cisco. I completed my undergrad in CS at UCLA :man_student:. Besides coding, I enjoy fitness and gaming.
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&count_private=true&theme=dark&hide=contribs,prs) -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&show_icons=true&theme=tokyonight)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&show_icons=true&theme=tokyonight) -->
 
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact) -->
