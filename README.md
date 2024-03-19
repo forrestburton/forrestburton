@@ -16,6 +16,7 @@ I'm currently working as a SWE at Cisco. I completed my undergrad in CS at UCLA 
 
 
 **Languages and Tools:**
+<br>
 [![My Skills](https://skillicons.dev/icons?i=java,aws,terraform,python,docker)](https://skillicons.dev)
 
 <img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
