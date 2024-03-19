@@ -6,7 +6,7 @@ I'm currently working as a SWE at Cisco. I completed my undergrad in CS at UCLA 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&show_icons=true&theme=tokyonight) -->
 
 
-<!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact) -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact)
 
 <!--![Forrest's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@forrestburton) -->
 
