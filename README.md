@@ -10,24 +10,13 @@ I'm currently working as a SWE at Cisco. I completed my undergrad in CS at UCLA 
 
 ![Forrest's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@forrestburton)
 
-<!--**What I'm listening to:** <br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c0535e3k72rqn7nfqvfm1kv7v&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
+**What I'm listening to:** <br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c0535e3k72rqn7nfqvfm1kv7v&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-<!-- [Forrests's wakatime stats](https://wakatime.com/share/@forrestburton/44f5e53d-e3ec-4ce9-8fc6-6b56b28c19ff.svg) -->
+[Forrests's wakatime stats](https://wakatime.com/share/@forrestburton/44f5e53d-e3ec-4ce9-8fc6-6b56b28c19ff.svg)
 
 
 **Languages and Tools:**
-<!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code>
--->
 [![My Skills](https://skillicons.dev/icons?i=java,aws,terraform,python,docker)](https://skillicons.dev)
 
 <img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
