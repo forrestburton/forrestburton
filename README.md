@@ -4,17 +4,13 @@ I'm currently working as a SWE at Cisco. I completed my undergrad in CS at Unive
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&count_private=true&theme=dark&hide=contribs,prs) -->
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestburton&show_icons=true&theme=tokyonight) -->
-
-<br>
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forrestburton&layout=compact) -->
 
 <!-- ![Forrest's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@forrestburton)  -->
 <!-- **What I'm listening to:** <br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c0535e3k72rqn7nfqvfm1kv7v&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 -->
-
 <!-- [Forrests's wakatime stats](https://wakatime.com/share/@forrestburton/44f5e53d-e3ec-4ce9-8fc6-6b56b28c19ff.svg)  -->
-
 
 **Languages and Tools:**
 <br>
