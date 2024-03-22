@@ -12,7 +12,7 @@ I'm currently working as a SWE at Cisco. I completed my undergrad in CS at Unive
 -->
 <!-- [Forrests's wakatime stats](https://wakatime.com/share/@forrestburton/44f5e53d-e3ec-4ce9-8fc6-6b56b28c19ff.svg)  -->
 
-**Languages and Tools:**
+<h4>Languages and Tools:</h4>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=java,aws,terraform,python,docker)](https://skillicons.dev)
 <img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
