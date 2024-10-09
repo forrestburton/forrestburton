@@ -14,5 +14,5 @@ I'm currently working as a SWE at Cisco. I completed my BS in Computer Science a
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,aws,terraform,python,docker,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,aws,terraform,python,docker,mysql)](https://skillicons.dev)
 <img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
